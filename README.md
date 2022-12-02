@@ -5,7 +5,7 @@
 
 ## Description
 
-This is an application that serves a text-editor, offline and online. Deployed on Heroku ![here](https://whispering-inlet-96677.herokuapp.com/)
+This is an application that serves a text-editor, offline and online. Deployed on Heroku, [click here](https://whispering-inlet-96677.herokuapp.com) to see.
 
 ## Table of Contents
 
