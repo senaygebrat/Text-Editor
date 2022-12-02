@@ -30,9 +30,9 @@ Please click on each link for installation
 
 ### Code Snippets
 
-Below is a code snippet 
+Below is a code snippet add logic to a method that accepts some content and adds it to the database
 ```
-// Add logic to a method that accepts some content and adds it to the database
+
 export const putDb = async (content) => {
   const jateDB = await openDB('jate', 1);
   const tx = jateDB.transaction('jate', 'readwrite');
